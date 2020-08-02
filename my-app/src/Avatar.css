@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.mainClass {
+	background-color: #daf7a6;
+	font-family: "Roboto", sans-serif;
+}
+
+.avatar-class img {
+	width: 200px;
+	height: 200px;
+}
